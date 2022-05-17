@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Pinpointing Hidden IoT Devices via Spatial-temporal Traffic Fingerprinting."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-7-6-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2020-7-6
+venue: ''
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ma, X., Qu, J., Li, J., Lui, J. C., Li, Z., \& Guan, X. (2020). Pinpointing Hidden IoT Devices via Spatial-temporal Traffic Fingerprinting. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 894-903). IEEE, 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9155346)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+
+

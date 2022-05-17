@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 6"
+title: "Landing Reinforcement Learning onto Smart Scanning of The Internet of Things."
 collection: publications
 permalink: /publication/2022-5-01-paper-title-number-3
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Inferring Hidden IoT Devices and User Interactions via Spatial-Temporal Traffic Fingerprinting."
 collection: publications
 permalink: /publication/2021-9-27-paper-title-number-3
 excerpt: ''

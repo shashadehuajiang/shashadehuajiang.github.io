@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "Querent-centric Domain Name System Modeling and Its Application in Passive Software Discovery."
 collection: publications
-permalink: /publication/2021-12-01-paper-title-number-3
+permalink: /publication/2021-12-01-paper-title-number-4
 excerpt: ''
 date: 2021-12-01
 venue: 'Journal 1'

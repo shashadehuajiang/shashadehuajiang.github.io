@@ -1,15 +1,16 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2021-3-10-paper-title-number-2
+excerpt: ''
+date: 2021-3-10
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9374641'
+citation: 'Ma, X., Qu, J., Chen, F., Liu, W., Li, J., Tao, J., ... & Zhang, Z. L. (2021). One Host with So Many IPs! On The Security Implications of Dynamic Virtual Private Servers. IEEE Communications Magazine, 59(2), 64-69.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9374641)
+
+
+

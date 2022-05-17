@@ -12,10 +12,10 @@ redirect_from:
 
 中文版本
 ======
-* [下载](https://ieeexplore.ieee.org/abstract/document/9155346)
+* [下载](https://shashadehuajiang.github.io/files/resume-zh.pdf)
 
 English Version
 ======
-* [Download](https://ieeexplore.ieee.org/abstract/document/9155346)
+* [Download](https://shashadehuajiang.github.io/files/resume-en.pdf)
 
 

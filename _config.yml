@@ -14,7 +14,7 @@ name                     : &name "Jian Qu"
 description              : &description "personal description"
 url                      : https://shashadehuajiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shashadehuajiang/shashadehuajiang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "瞿建 (Jian Qu)"
   avatar           : "profile.png"
-  bio              : "西安交通大学，博二研究生，计算机科学与技术学院"
-  location         : "Location"
+  bio              : "西安交通大学，计算机科学与技术学院,在读博士研究生"
+  location         : "中国"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://This guy does not have it./"
+  googlescholar    : #"http://This guy does not have it."
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "shashadehuajiang"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"This guy does not have it."
   vine             :
   weibo            :
   xing             :

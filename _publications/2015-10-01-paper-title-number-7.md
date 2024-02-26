@@ -9,6 +9,3 @@ paperurl: 'xx'
 citation: 'xx'
 ---
 
-
-[Download paper here](http://www.greenorbs.org/people/lzh/papers/[INFOCOM'22]%20Smart%20Scanning%20IoT.pdf)
-
